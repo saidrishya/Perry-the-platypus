@@ -1,0 +1,249 @@
+body{
+  background-color : black; 
+}
+
+#perry{
+  position:absolute;
+  left:50%;
+  right:50%;
+}
+
+#face{
+  width:300px;
+  height:120px;
+  position:absolute;
+  background-color: #006060;
+  border-radius: 30% 10% 25% 15%;
+  top: 150px;
+  left:500px;  
+}
+
+#eye1{
+  width:43px;
+  height:30px;
+  position:absolute;
+  background-color: white;
+  border-radius: 50% 50% 50% 50%;
+  top: 170px;
+  left:700px;  
+}
+
+#eye2{
+  width:43px;
+  height:30px;
+  position:absolute;
+  background-color: white;
+  border-radius: 50% 50% 50% 50%;
+  top: 170px;
+  left:780px;  
+}
+
+#pupil1{
+  width:22px;
+  height:20px;
+  position:absolute;
+  background-color: black;
+  border-radius: 50% 50% 50% 50%;
+  top: 174px;
+  left:702px;  
+}
+
+#pupil2{
+  width:22px;
+  height:20px;
+  position:absolute;
+  background-color: black;
+  border-radius: 50% 50% 50% 50%;
+  top: 174px;
+  left:798px;  
+}
+
+#innerpupil1{
+  width:6px;
+  height:6px;
+  position:absolute;
+  background-color: white;
+  border-radius: 50% 50% 50% 50%;
+  top: 177px;
+  left:707px;  
+}
+
+#innerpupil2{
+  width:6px;
+  height:6px;
+  position:absolute;
+  background-color: white;
+  border-radius: 50% 50% 50% 50%;
+  top: 176px;
+  left:806px;    
+}
+
+#leg1{
+  width:20px;
+  height:43px;
+  position:absolute;
+  background-color: #006060;
+  border-radius: 30% 10% 25% 15%;
+  top: 240px;
+  left:500px;
+}
+
+#foot1{
+  width:15px;
+  height:15px;
+  position:absolute;
+  background-color: #D86000;
+  border-radius: 0% 100% 0% 100% / 0% 100% 0% 100% ;
+  top: 97px;
+  left:-240px;
+  
+}
+#foot12{
+  width:15px;
+  height:15px;
+  position:absolute;
+  background-color: #D86000;
+  border-radius: 0% 100% 0% 100% / 0% 100% 0% 100% ;
+  top: 97px;
+  left:-232px;
+  
+}
+#foot13{
+  width:15px;
+  height:15px;
+  position:absolute;
+  background-color: #D86000;
+  border-radius: 0% 100% 0% 100% / 0% 100% 0% 100% ;
+  top: 97px;
+  left:-224px;
+  
+}
+
+#footline1{
+  width:21px;
+  height:4px;
+  position:absolute;
+  background-color: #006060;
+  top: 95px;
+  left:-240px;
+  
+}
+
+#leg2{
+  width:20px;
+  height: 38px;
+  position:absolute;
+  background-color: #006060;
+  border-radius: 92% 8% 0% 100% / 0% 0% 100% 100% ;
+  top: 240px;
+  left:550px;
+}
+
+
+#foot2{
+  width:15px;
+  height:15px;
+  position:absolute;
+  background-color: #D86000;
+  border-radius: 0% 100% 0% 100% / 0% 100% 0% 100% ;
+  top: 80px;
+  left:-180px;
+  
+}
+#foot22{
+  width:15px;
+  height:15px;
+  position:absolute;
+  background-color: #D86000;
+  border-radius: 0% 100% 0% 100% / 0% 100% 0% 100% ;
+  top: 78px;
+  left: -172px;
+  
+}
+#foot23{
+  width:15px;
+  height:15px;
+  position:absolute;
+  background-color: #D86000;
+  border-radius: 0% 100% 0% 100% / 0% 100% 0% 100% ;
+  top: 75px;
+  left:-168px;
+  
+}
+
+#footline2{
+  width:21px;
+  height:5px;
+  position:absolute;
+  background-color: #006060;
+  top: 76px;
+  left:-179px;
+  transform : rotate(-22deg);
+  
+}
+
+#beak1{
+  width: 0;
+	height: 0;
+	border-left: 13px solid transparent;
+	border-right: 12px solid transparent;
+	border-bottom: 40px solid #D86000;
+  border-radius : 8px 8px 15px 15px;
+  margin-left: 745px;
+  margin-top: 192px;
+  transform : rotate(45deg);
+}
+
+
+#beak2{
+  height: 20px;
+  width: 73px;
+  background-color: #D86000;
+  position: absolute;
+  border-radius: 95% 78% 78% 95%;
+  transform : rotate(6deg);
+  margin-top: -17px;
+  margin-left: 740px;
+  
+}
+
+
+#tail{
+  border-bottom: 90px solid #D86000;
+	border-left: 35px solid transparent;
+	border-right: 25px solid transparent;
+  border-radius: 15%;
+	height: 20;
+	width: 25px;
+  margin-top:-96px;
+  margin-left:-310px;  
+  transform : rotate(140deg);
+}
+
+#leg3{
+  width:20px;
+  height: 50px;
+  position:absolute;
+  background-color: #006060;
+  border-radius: 50% 50% 74% 26% / 0% 79% 21% 100% ;
+  top: 240px;
+  left:680px;
+}
+
+
+#leg4{
+  width:20px;
+  height: 50px;
+  position:absolute;
+  background-color: #006060;
+  border-radius: 50% 50% 74% 26% / 0% 79% 21% 100% ;
+  top: 240px;
+  left:740px;
+}
+
+#platypus{
+  color:white;
+  text-align: center;
+}
+
+
